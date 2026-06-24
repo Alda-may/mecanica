@@ -5,6 +5,7 @@
 
 body {
     background-color: #3a3d47;
+    font-family: Verdana;
 }
 
 .container {
@@ -20,8 +21,25 @@ body {
 
 .logo {
     float: left;
+    width: 300px;
+    padding: 35px;
 }
 
+/*estilos del menú de opciones*/
 .menu {
     float: left;
+    padding: 50px;
+}
+.opciones li {
+    float: left;
+    list-style: none;
+}
+.opciones li a {
+    color:white;
+    padding: 25px;
+    text-decoration: none;
+    border: 1px solid white;
+}
+.opciones li a:hover {
+    background: #0d356a;
 }
