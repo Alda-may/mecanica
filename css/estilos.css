@@ -43,3 +43,13 @@ body {
 .opciones li a:hover {
     background: #0d356a;
 }
+
+/*estilos para el cuerpo*/
+.cuerpo {
+    overflow: hidden;
+}
+.caja {
+    float: left;
+    width: 380px;
+    margin: 10px;
+}
