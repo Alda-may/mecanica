@@ -12,3 +12,16 @@ body {
     background: white;
     margin: 10px auto;
 }
+
+.superior {
+    background: #1551a1;
+    overflow: hidden;
+}
+
+.logo {
+    float: left;
+}
+
+.menu {
+    float: left;
+}
