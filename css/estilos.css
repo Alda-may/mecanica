@@ -53,3 +53,12 @@ body {
     width: 380px;
     margin: 10px;
 }
+
+.subtitulo {
+    background: #1551a1;
+}
+.servicios {
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+}
