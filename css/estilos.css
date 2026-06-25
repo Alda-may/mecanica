@@ -62,3 +62,6 @@ body {
     text-align: center;
     padding: 15px 0;
 }
+.efecto:hover {
+    opacity: 0.9;
+}
