@@ -63,5 +63,6 @@ body {
     padding: 15px 0;
 }
 .efecto:hover {
-    opacity: 0.9;
+    opacity: 0.8;
+    cursor: pointer;
 }
