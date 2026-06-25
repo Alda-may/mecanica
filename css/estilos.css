@@ -51,7 +51,8 @@ body {
 .caja {
     float: left;
     width: 380px;
-    margin: 10px;
+    margin: 8px;
+    border: 1px solid;
 }
 
 .subtitulo {
@@ -65,4 +66,25 @@ body {
 .efecto:hover {
     opacity: 0.8;
     cursor: pointer;
+}
+.contenido {
+    padding: 20px;
+    text-align: justify;
+}
+.boton {
+    padding: 15px 20px;
+    margin: 20px 0;
+    color: white;
+    background: #144a91;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.boton:hover {
+    background: #0c2c57;
+}
+.titulo {
+    text-align: center;
+    padding: 20px 0 15px 0;
+    color: #ff7600;
+    font-size: 35px;
 }
