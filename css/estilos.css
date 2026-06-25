@@ -88,3 +88,29 @@ body {
     color: #ff7600;
     font-size: 35px;
 }
+
+/*estilos del footer*/
+.pie {
+    background: #062348;
+    overflow: hidden;
+}
+.izquierda {
+    float: left;
+    width: 550px;
+    padding: 20px;
+}
+.derecha {
+    float: left;
+    width: 550px;
+    padding: 20px;
+}
+.abajo {
+    color: white;
+    font-size: 12px;
+    padding: 10px;
+}
+.siguenos {
+    text-align: center;
+    color: white;
+    padding: 15px 0;
+}
